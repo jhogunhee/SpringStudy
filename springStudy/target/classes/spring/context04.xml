@@ -7,5 +7,5 @@
 	
 	<bean id="board" class="part04.Board"/>
 	<bean id="write" class="part04.QnaBoardWrite"/>
-		
+	 	
 </beans>
